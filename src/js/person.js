@@ -5,6 +5,6 @@ export default class Person {
     }
 
     greet() {
-        console.log(`Hola me llamo ${this.name}`)
+        console.log(`Hola me llamo ${this.name} :)`)
     }
 }
